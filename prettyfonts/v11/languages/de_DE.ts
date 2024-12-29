@@ -43,12 +43,12 @@ His hands were ravenous."</source>
     </message>
     <message>
       <location filename="..\main.py" line="237" />
-      <source>"Is it true that a long time ago, firemen used to put out fires and not burn books?"</source>
+      <source>"Ist es wahr, das vor langer zeit Feuerwehrleute Brände löschten und keine Bücher verbrannten?"</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="238" />
-      <source>"Fahrenheit 451, the temperature at which paper spontaneously combusts"</source>
+      <source>"Fahrenheit 451, die Temperatur, bei der sich Papier spontan entzündet"</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -83,7 +83,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     </message>
     <message>
       <location filename="..\main.py" line="256" />
-      <source>BunnyPad ist Erfolgreich. We did it. Leute werden es versuchen zu zerstören, aber wir werden nicht nachgeben.</source>
+      <source>BunnyPad ist Erfolgreich. Wir haben es geschafft. Leute werden es versuchen zu zerstören, aber wir werden nicht nachgeben.</source>
       <translation type="unfinished" />
     </message>
   </context>
@@ -114,7 +114,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     <name>ContactUs</name>
     <message>
       <location filename="..\main.py" line="360" />
-      <source>Contact BunnyPad Support</source>
+      <source>Kontaktiert BunnyPad Support</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -134,7 +134,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     </message>
     <message>
       <location filename="..\main.py" line="392" />
-      <source>das es eine bombe ist, rather literally</source>
+      <source>das es eine bombe ist, aber wörtlich</source>
       <translation type="unfinished" />
     </message>
   </context>
@@ -160,7 +160,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     <message>
       <location filename="..\main.py" line="292" />
       <source>Beta Tester
-DinoDude: Github contributor 
+DinoDude: Github Mitwirkender
 BunnyFndr: Icon Finder and Bug Tester</source>
       <translation type="unfinished" />
     </message>
@@ -169,14 +169,14 @@ BunnyFndr: Icon Finder and Bug Tester</source>
     <name>DownloadOptions</name>
     <message>
       <location filename="..\main.py" line="397" />
-      <source>Download Options</source>
+      <source>Download Optionen</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="401" />
       <source>Wo möchtest du heute hin?
 
-Choose one of the available download options:</source>
+Wähle einer der verfügbaren Optionen:</source>
       <translation type="unfinished" />
     </message>
   </context>
@@ -184,7 +184,7 @@ Choose one of the available download options:</source>
     <name>FeatureNotReady</name>
     <message>
       <location filename="..\main.py" line="302" />
-      <source>Feature Not Ready: Work In Progress</source>
+      <source>Feature nicht bereit: Laufende Arbeiten</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -211,7 +211,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="326" />
-      <source>See You Again</source>
+      <source>auf Wiedersehen</source>
       <translation type="unfinished" />
     </message>
   </context>
@@ -234,12 +234,12 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="511" />
-      <source>File</source>
+      <source>Datei</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="514" />
-      <source>New</source>
+      <source>Neu</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -249,17 +249,17 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="520" />
-      <source>Open...</source>
+      <source>Öffnen...</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="521" />
-      <source>Opens a document.</source>
+      <source>Öffnet ein Dokument.</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="526" />
-      <source>Save</source>
+      <source>Speichern</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -274,12 +274,12 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="533" />
-      <source>Saves the document as the chosen file</source>
+      <source>Speichert das Dokument als die gewählte Datei.</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="540" />
-      <source>Print to PDF...</source>
+      <source>In PDF drucken...</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -294,7 +294,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="546" />
-      <source>Print current page</source>
+      <source>Aktuelle Seite Drucken</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -314,7 +314,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="562" />
-      <source>Undo</source>
+      <source>Rückgängig machen</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -329,7 +329,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="575" />
-      <source>Moves selected text to clipboard</source>
+      <source>Verschiebt den markierten Text von der Zwischenablage</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -339,7 +339,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="582" />
-      <source>Copies the selected text to the clipboard.</source>
+      <source>Kopiert den markierten Text in die Zwischenablage</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -349,7 +349,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="587" />
-      <source>Pastes the text currently in the clipboard.</source>
+      <source>Fügt den Text in der Zwischenablage ein.</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -359,7 +359,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="593" />
-      <source>Deletes the character after the cursor position.</source>
+      <source>Löscht das Zeichen nach der Cursorposition</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -369,7 +369,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="599" />
-      <source>Inserts the current date and time, including milliseconds.</source>
+      <source>Fügt das aktuelle Datum und Zeit ein, mit Millisekunden</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -391,32 +391,32 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="616" />
-      <source>Find a word...</source>
+      <source>Finde ein Wort...</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="620" />
-      <source>Go To Line</source>
+      <source>Gehe zu Zeile</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="622" />
-      <source>Go to a specified line</source>
+      <source>Zu einer bestimmten Zeile gehen</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="627" />
-      <source>Replace...</source>
+      <source>Ersetzen...</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="628" />
-      <source>Currently in development...</source>
+      <source>Derzeit in Entwicklung...</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="635" />
-      <source>Select All</source>
+      <source>Alles auswählen</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -441,12 +441,12 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="652" />
-      <source>Font...</source>
+      <source>Schriftart...</source>
       <translation type="unfinished" />
     </message>
     <message>
       <location filename="..\main.py" line="653" />
-      <source>Change the current font.</source>
+      <source>Andert die aktualle Schriftart.</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -466,7 +466,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="662" />
-      <source>Find out more about BunnyPad</source>
+      <source>Erfahre mehr über BunnyPad™</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -476,7 +476,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="667" />
-      <source>Find out more about BunnyPad's operating environment</source>
+      <source>Erfahre mehr über die Betriebsumgebung von BunnyPad™</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -486,7 +486,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="672" />
-      <source>Find out more about BunnyPad's Team</source>
+      <source>Erfahre mehr über das Team von BunnyPad™</source>
       <translation type="unfinished" />
     </message>
     <message>
