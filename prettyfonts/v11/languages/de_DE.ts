@@ -48,7 +48,7 @@ His hands were ravenous."</source>
     </message>
     <message>
       <location filename="..\main.py" line="238" />
-      <source>"Fahrenheit 451, die Temperatur, bei der sich Papier spontan entzündet"</source>
+      <source>"Fahrenheit 451, ist eine Temperatur, wobei sich Papier spontan entzündet"</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -700,7 +700,7 @@ And now you gon' be with me for the last ride.</source>
     </message>
     <message>
       <location filename="..\main.py" line="341" />
-      <source>Unfortunately, there is no cake. You have fallen for a trap. Where we promised a tasty dessert, there is instead deception. In other words, THE CAKE IS A LIE!</source>
+      <source>Leider ist hier kein Kuchen, Du bist auf einer falle reingefallen. Where we promised a tasty dessert, there is instead deception. In other words, THE CAKE IS A LIE!</source>
       <translation type="unfinished" />
     </message>
     <message>
