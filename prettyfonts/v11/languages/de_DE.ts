@@ -114,7 +114,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     <name>ContactUs</name>
     <message>
       <location filename="..\main.py" line="360" />
-      <source>Kontaktiert BunnyPad Support</source>
+      <source>Kontaktiere BunnyPad Support</source>
       <translation type="unfinished" />
     </message>
     <message>
@@ -134,7 +134,7 @@ Now, if you don't want a person unhappy, you don't give them two sides of a ques
     </message>
     <message>
       <location filename="..\main.py" line="392" />
-      <source>das es eine bombe ist, aber wörtlich</source>
+      <source>das es eine bombe ist, aber wortwörtlich</source>
       <translation type="unfinished" />
     </message>
   </context>
